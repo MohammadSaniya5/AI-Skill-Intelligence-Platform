@@ -58,7 +58,6 @@ Production-ready release planned
 
 ---
 
-##  Contact
-For collaboration or demo access, feel free to connect.
+##  Contact 
 
 For collaboration or demo access, feel free to connect.
